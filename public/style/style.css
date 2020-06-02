@@ -1,0 +1,39 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  .product-list {
+    /* border-style: dashed; */
+    display: flex;
+    flex-direction: row;
+
+  }
+
+.product-container {
+  margin: 0.5rem;
+  border-radius: 0 0 0.75rem 0.75rem;
+  border: solid beige;
+  display: inline-block;
+  box-shadow:0.1rem 0.2rem #6666;
+  width: 16rem;
+
+}
+
+.product-image {
+  height: 15rem;
+  width: 15rem;
+
+}
+.product-title {
+  color: lightcoral;
+  align: center;
+}
+
+.product-buy {
+  width: 100%;
+  border: none;
+}

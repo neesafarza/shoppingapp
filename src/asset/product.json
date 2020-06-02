@@ -1,0 +1,21 @@
+[
+    {
+        "title": "product1",
+        "description": "test description",
+        "price": 1.30,
+        "image": "https://i.pinimg.com/originals/ca/24/0e/ca240e32c7132a72a61204d5f325aed2.jpg"
+    },
+    {
+        "title": "product2",
+        "description": "test description",
+        "price": 2.30,
+        "image": "https://polyvore.ch/wp-content/uploads/2019/05/Fashion-Trends-Jewellery-Inspo-Gold-Abstract-Shape-Earrings.jpg"
+    },
+
+    {
+        "title": "product3",
+        "description": "test description",
+        "price": 2.50,
+        "image": "https://glamadelaide-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/thumbnail_Mother-Earth-LC-edit.jpg"
+    }
+]
